@@ -1,3 +1,2 @@
 # Raghav's Notes
- ## Trying to figure out how to make changes to a readme file.
-  - 
+ ## This repository contains all of Raghav Shrivastav's notes for the first week of LHL's full emmersive bottcamp.
